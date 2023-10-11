@@ -371,7 +371,7 @@ var config = {
                     Candi Kalasan, meski belum selesai dipugar, terutama pada bagian atapnya, tetap memperlihatkan keindahan fisik dan dekorasi yang luar biasa. Candi ini berdiri di atas alas berbentuk bujur sangkar berukuran 45 x 45 meter dengan tinggi keseluruhan 24 meter dan terdiri dari tiga bagian: kaki, badan, dan atap. Relief hias di kaki menggambarkan vas dan tentakel sebagai simbol kekayaan. Di sisi selatan terdapat relief kepala ikan yang dihiasi dengan ornamen yang berasal dari pohon dewa, benda langit, dan alat musik. Bagian atap Candi Kalasan rusak parah, tetapi deskripsi van Romondt menggambarkan struktur dengan dua prisma segi delapan di tengah atap dan empat atap individu.
                 </p>
             `,
-            model: 'https://SistemInformasi3DBangunanCandi.github.io/3D/Candi_Sambisari3D/Sambisari3D.gltf',
+            model: 'https://dinarsurya.github.io/3D/Sambisari/Sambisari.gltf',
             scale: 5,
             locatioObj: [110.44605, -7.76293],
             location: {
