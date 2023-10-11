@@ -69,22 +69,6 @@ var config = {
             title: 'Candi Sari',
             image: 'assets/images/Sari.JPG',
             description: `
-                <p class="tebal" style="font-weight: bold;">Jam Operasional.</p>
-                <ul class="operational-hours">
-                    <li><span class="day">Senin</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Selasa</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Rabu</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Kamis</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Jumat</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Sabtu</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Minggu</span><span class="time">08.00 - 15.00</span></li>
-                </ul>
-                </ul>
-                <p class="tebal" style="font-weight: bold;">Harga Tiket.</p>
-                <ul class="ticket-prices">
-                    <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
-                    <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
-                </ul>
                 <p class="tebal" style="font-weight: bold;">Sejarah.</p>
                 <p style="text-align: justify;">
                     Candi Sari adalah candi atau asrama bagi para pendeta. Berdasarkan bentuk atapnya yang berbentuk stupa, dapat disimpulkan bahwa Candi Sari adalah agama Buddha. Berdasarkan desain dekoratif ukiran yang sangat halus, dapat diperkirakan bahwa candi Sari dibangun pada masa yang sama dengan candi Kalasan, yaitu sekitar abad ke-8 Masehi. Candi Sari dipugar pada tahun 1929-1930 oleh Kantor Purbakala Hindia Belanda 
@@ -111,14 +95,13 @@ var config = {
                     <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
                     <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
                 </ul>
-                <p class="tebal" style="font-weight: bold;">Sejarah.</p>
-                <p style="text-align: justify;">
-                    Candi Kalasan berlokasi di Dusun Kalibening, Desa Tirtomartani, Kecamatan Kalasan, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Candi Kalasan menghadap ke arah timur dan didirikan menggunakan material batu andesit. Walaupun tidak ditemukan jejak desa sebagai permukiman, temuan di situs Candi Kalasan mengisyaratkan adanya struktur tempat tinggal atau biara bagi para pendeta dan pengelola candi dalam kawasan upacara.
-                </p>
-
-                <p style="text-align: justify;">
-                    Candi Kalasan, meski belum selesai dipugar, terutama pada bagian atapnya, tetap memperlihatkan keindahan fisik dan dekorasi yang luar biasa. Candi ini berdiri di atas alas berbentuk bujur sangkar berukuran 45 x 45 meter dengan tinggi keseluruhan 24 meter dan terdiri dari tiga bagian: kaki, badan, dan atap. Relief hias di kaki menggambarkan vas dan tentakel sebagai simbol kekayaan. Di sisi selatan terdapat relief kepala ikan yang dihiasi dengan ornamen yang berasal dari pohon dewa, benda langit, dan alat musik. Bagian atap Candi Kalasan rusak parah, tetapi deskripsi van Romondt menggambarkan struktur dengan dua prisma segi delapan di tengah atap dan empat atap individu.
-                </p>
+                <p class="tebal" style="font-weight: bold;">Dimensi Candi</p>
+                <ul class="operational-hours">
+                    <li><span class="day">Panjang</span><span class="time">17.3 meter</span></li>
+                    <li><span class="day">Lebar</span><span class="time">10 meter</span></li>
+                    <li><span class="day">Tinggi</span><span class="time">17 meter</span></li>
+                </ul>
+                
             `,
             model: 'https://dinarsurya.github.io/3D/Sari/Sari.gltf',
             scale: 3,
@@ -158,22 +141,6 @@ var config = {
             title: 'Candi Kedulan',
             image: 'assets/images/Kedulan.JPG',
             description: `
-                <p class="tebal" style="font-weight: bold;">Jam Operasional.</p>
-                <ul class="operational-hours">
-                    <li><span class="day">Senin</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Selasa</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Rabu</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Kamis</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Jumat</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Sabtu</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Minggu</span><span class="time">08.00 - 15.00</span></li>
-                </ul>
-                </ul>
-                <p class="tebal" style="font-weight: bold;">Harga Tiket.</p>
-                <ul class="ticket-prices">
-                    <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
-                    <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
-                </ul>
                 <p class="tebal" style="font-weight: bold;">Sejarah.</p>
                 <p style="text-align: justify;">
                     Candi Kedulan terletak di Dusun Kedula, Desa Tirtomartan, Kecamatan Kalasan, Sleman, Daerah Istimewa Yogyakarta, dengan ketinggian 168,45 meter di atas permukaan laut. . Berdasarkan hasil survei stratigrafi, candi Kedulan diselimuti lahar setebal 8 meter yang terdiri dari 15 lapisan sedimen. Mereka menemukan susunan balok di kedalaman tiga meter. Seorang pekerja bernama Sriyanto, yang tinggal di Jogonalan, Wanabaya, Klaten, melaporkan hasilnya ke Balai Pelestarian Cagar Budaya Daerah Istimewa Yogyakarta.
@@ -200,14 +167,13 @@ var config = {
                     <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
                     <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
                 </ul>
-                <p class="tebal" style="font-weight: bold;">Sejarah.</p>
-                <p style="text-align: justify;">
-                    Candi Kalasan berlokasi di Dusun Kalibening, Desa Tirtomartani, Kecamatan Kalasan, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Candi Kalasan menghadap ke arah timur dan didirikan menggunakan material batu andesit. Walaupun tidak ditemukan jejak desa sebagai permukiman, temuan di situs Candi Kalasan mengisyaratkan adanya struktur tempat tinggal atau biara bagi para pendeta dan pengelola candi dalam kawasan upacara.
-                </p>
-
-                <p style="text-align: justify;">
-                    Candi Kalasan, meski belum selesai dipugar, terutama pada bagian atapnya, tetap memperlihatkan keindahan fisik dan dekorasi yang luar biasa. Candi ini berdiri di atas alas berbentuk bujur sangkar berukuran 45 x 45 meter dengan tinggi keseluruhan 24 meter dan terdiri dari tiga bagian: kaki, badan, dan atap. Relief hias di kaki menggambarkan vas dan tentakel sebagai simbol kekayaan. Di sisi selatan terdapat relief kepala ikan yang dihiasi dengan ornamen yang berasal dari pohon dewa, benda langit, dan alat musik. Bagian atap Candi Kalasan rusak parah, tetapi deskripsi van Romondt menggambarkan struktur dengan dua prisma segi delapan di tengah atap dan empat atap individu.
-                </p>
+                <p class="tebal" style="font-weight: bold;">Dimensi Candi</p>
+                <ul class="operational-hours">
+                    <li><span class="day">Panjang</span><span class="time">12.05 meter</span></li>
+                    <li><span class="day">Lebar</span><span class="time">12.05 meter</span></li>
+                    <li><span class="day">Tinggi</span><span class="time">2.72 meter</span></li>
+                </ul>
+                
             `,
             model: 'https://dinarsurya.github.io/3D/Kedulan/Kedulan.gltf',
             scale: 500,
@@ -242,22 +208,6 @@ var config = {
             title: 'Candi Kalasan',
             image: 'assets/images/Kalasan.JPG',
             description: `
-                <p class="tebal" style="font-weight: bold;">Jam Operasional.</p>
-                <ul class="operational-hours">
-                    <li><span class="day">Senin</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Selasa</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Rabu</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Kamis</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Jumat</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Sabtu</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Minggu</span><span class="time">08.00 - 15.00</span></li>
-                </ul>
-                </ul>
-                <p class="tebal" style="font-weight: bold;">Harga Tiket.</p>
-                <ul class="ticket-prices">
-                    <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
-                    <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
-                </ul>
                 <p class="tebal" style="font-weight: bold;">Sejarah.</p>
                 <p style="text-align: justify;">
                     Candi Kalasan berlokasi di Dusun Kalibening, Desa Tirtomartani, Kecamatan Kalasan, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Candi Kalasan menghadap ke arah timur dan didirikan menggunakan material batu andesit. Walaupun tidak ditemukan jejak desa sebagai permukiman, temuan di situs Candi Kalasan mengisyaratkan adanya struktur tempat tinggal atau biara bagi para pendeta dan pengelola candi dalam kawasan upacara.
@@ -284,16 +234,15 @@ var config = {
                     <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
                     <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
                 </ul>
-                <p class="tebal" style="font-weight: bold;">Sejarah.</p>
-                <p style="text-align: justify;">
-                    Candi Kalasan berlokasi di Dusun Kalibening, Desa Tirtomartani, Kecamatan Kalasan, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Candi Kalasan menghadap ke arah timur dan didirikan menggunakan material batu andesit. Walaupun tidak ditemukan jejak desa sebagai permukiman, temuan di situs Candi Kalasan mengisyaratkan adanya struktur tempat tinggal atau biara bagi para pendeta dan pengelola candi dalam kawasan upacara.
-                </p>
-
-                <p style="text-align: justify;">
-                    Candi Kalasan, meski belum selesai dipugar, terutama pada bagian atapnya, tetap memperlihatkan keindahan fisik dan dekorasi yang luar biasa. Candi ini berdiri di atas alas berbentuk bujur sangkar berukuran 45 x 45 meter dengan tinggi keseluruhan 24 meter dan terdiri dari tiga bagian: kaki, badan, dan atap. Relief hias di kaki menggambarkan vas dan tentakel sebagai simbol kekayaan. Di sisi selatan terdapat relief kepala ikan yang dihiasi dengan ornamen yang berasal dari pohon dewa, benda langit, dan alat musik. Bagian atap Candi Kalasan rusak parah, tetapi deskripsi van Romondt menggambarkan struktur dengan dua prisma segi delapan di tengah atap dan empat atap individu.
-                </p>
+                <p class="tebal" style="font-weight: bold;">Dimensi Candi</p>
+                <ul class="operational-hours">
+                    <li><span class="day">Panjang</span><span class="time">45 meter</span></li>
+                    <li><span class="day">Lebar</span><span class="time">45 meter</span></li>
+                    <li><span class="day">Tinggi</span><span class="time">24 meter</span></li>
+                </ul>
+                
             `,
-            model: 'https://SistemInformasi3DBangunanCandi.github.io/3D/candi_kalasan3D/CandiKalasan3D.gltf',
+            model: 'https://dinarsurya.github.io/3D/candi_kalasan3D/CandiKalasan3D.gltf',
             scale: 1.5,
             locatioObj: [110.47202, -7.76753],
             location: {
@@ -321,21 +270,6 @@ var config = {
             image: 'assets/images/Sambisari.JPG',
             description: `
                 <p class="tebal" style="font-weight: bold;">Jam Operasional.</p>
-                <ul class="operational-hours">
-                    <li><span class="day">Senin</span><span class="time">Libur</span></li>
-                    <li><span class="day">Selasa</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Rabu</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Kamis</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Jumat</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Sabtu</span><span class="time">08.00 - 15.00</span></li>
-                    <li><span class="day">Minggu</span><span class="time">08.00 - 15.00</span></li>
-                </ul>
-                </ul>
-                <p class="tebal" style="font-weight: bold;">Harga Tiket.</p>
-                <ul class="ticket-prices">
-                    <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
-                    <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
-                </ul>
                 <p class="tebal" style="font-weight: bold;">Sejarah.</p>
                 <p style="text-align: justify;">
                     Candi Sambisari terletak di Dusun Sambisari, Desa Purwomartan, Kalasan, Sleman, Daerah Istimewa Yogyakarta. Perkiraan tanggal pendirian candi ini didasarkan pada berbagai analisis. Menggunakan bahan jalan setapak, struktur candi Sambisari kemungkinan serupa dengan candi-candi seperti Prambanan, Plaosan, dan Sojiwan, yang berasal dari abad ke-8 hingga ke-11 Masehi. Candi induk menghadap ke barat, memiliki ukuran 13,65 x 13,65 meter, dan tingginya mencapai 7,5 meter
@@ -362,16 +296,14 @@ var config = {
                     <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
                     <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
                 </ul>
-                <p class="tebal" style="font-weight: bold;">Sejarah.</p>
-                <p style="text-align: justify;">
-                    Candi Kalasan berlokasi di Dusun Kalibening, Desa Tirtomartani, Kecamatan Kalasan, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Candi Kalasan menghadap ke arah timur dan didirikan menggunakan material batu andesit. Walaupun tidak ditemukan jejak desa sebagai permukiman, temuan di situs Candi Kalasan mengisyaratkan adanya struktur tempat tinggal atau biara bagi para pendeta dan pengelola candi dalam kawasan upacara.
-                </p>
-
-                <p style="text-align: justify;">
-                    Candi Kalasan, meski belum selesai dipugar, terutama pada bagian atapnya, tetap memperlihatkan keindahan fisik dan dekorasi yang luar biasa. Candi ini berdiri di atas alas berbentuk bujur sangkar berukuran 45 x 45 meter dengan tinggi keseluruhan 24 meter dan terdiri dari tiga bagian: kaki, badan, dan atap. Relief hias di kaki menggambarkan vas dan tentakel sebagai simbol kekayaan. Di sisi selatan terdapat relief kepala ikan yang dihiasi dengan ornamen yang berasal dari pohon dewa, benda langit, dan alat musik. Bagian atap Candi Kalasan rusak parah, tetapi deskripsi van Romondt menggambarkan struktur dengan dua prisma segi delapan di tengah atap dan empat atap individu.
-                </p>
+                <p class="tebal" style="font-weight: bold;">Dimensi Candi</p>
+                <ul class="operational-hours">
+                    <li><span class="day">Panjang</span><span class="time">13.65 meter</span></li>
+                    <li><span class="day">Lebar</span><span class="time">13.65 meter</span></li>
+                    <li><span class="day">Tinggi</span><span class="time">7.5 meter</span></li>
+                </ul>
             `,
-            model: 'https://dinarsurya.github.io/3D/Sambisari/Sambisari.gltf',
+            model: 'https://dinarsurya.github.io/3D/kls/scene.gltf',
             scale: 5,
             locatioObj: [110.44605, -7.76293],
             location: {
