@@ -303,7 +303,7 @@ var config = {
                     <li><span class="day">Tinggi</span><span class="time">7.5 meter</span></li>
                 </ul>
             `,
-            model: 'https://dinarsurya.github.io/3D/Sambisari/Sambisari.gltf',
+            model: 'https://SistemInformasi3DBangunanCandi.github.io/3D/sambisari/sambisari.gltf',
             scale: 5,
             locatioObj: [110.44605, -7.76293],
             location: {
