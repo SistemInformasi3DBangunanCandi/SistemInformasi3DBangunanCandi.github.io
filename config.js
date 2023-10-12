@@ -79,7 +79,7 @@ var config = {
                 </p>
             `,
             modalInfo: `
-                <p class="tebal" style="font-weight: bold;">Sari</p>
+                <p class="tebal" style="font-weight: bold;">Candi Sari</p>
                 <p class="tebal" style="font-weight: bold;">Jam Operasional</p>
                 <ul class="operational-hours">
                     <li><span class="day">Senin</span><span class="time">08.00 - 15.00</span></li>
@@ -102,7 +102,6 @@ var config = {
                     <li><span class="day">Lebar</span><span class="time">10 meter</span></li>
                     <li><span class="day">Tinggi</span><span class="time">17 meter</span></li>
                 </ul>
-                
             `,
             model: 'https://dinarsurya.github.io/3D/Sari/Sari.gltf',
             scale: 3,
@@ -175,7 +174,7 @@ var config = {
                     <li><span class="day">Lebar</span><span class="time">12.05 meter</span></li>
                     <li><span class="day">Tinggi</span><span class="time">2.72 meter</span></li>
                 </ul>
-                
+
             `,
             model: 'https://dinarsurya.github.io/3D/Kedulan/Kedulan.gltf',
             scale: 500,
@@ -239,11 +238,10 @@ var config = {
                 </ul>
                 <p class="tebal" style="font-weight: bold;">Dimensi Candi</p>
                 <ul class="operational-hours">
-                    <li><span class="day">Panjang</span><span class="time">45 meter</span></li>
-                    <li><span class="day">Lebar</span><span class="time">45 meter</span></li>
-                    <li><span class="day">Tinggi</span><span class="time">24 meter</span></li>
+                    <li><span class="day">Panjang</span><span class="time">12.05 meter</span></li>
+                    <li><span class="day">Lebar</span><span class="time">12.05 meter</span></li>
+                    <li><span class="day">Tinggi</span><span class="time">2.72 meter</span></li>
                 </ul>
-                
             `,
             model: 'https://SistemInformasi3DBangunanCandi.github.io/3D/kalasan/kalasan.gltf',
             scale: 1.5,
@@ -282,7 +280,7 @@ var config = {
                 </p>
             `,
             modalInfo: `
-                <p class="tebal" style="font-weight: bold;">Candi Sambisari</p>
+                <p class="tebal" style="font-weight: bold;">Candi Sambisari.</p>
                 <p class="tebal" style="font-weight: bold;">Jam Operasional</p>
                 <ul class="operational-hours">
                     <li><span class="day">Senin</span><span class="time">08.00 - 15.00</span></li>
