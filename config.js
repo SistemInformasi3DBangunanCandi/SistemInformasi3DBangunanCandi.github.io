@@ -69,7 +69,7 @@ var config = {
             title: 'Candi Sari',
             image: 'assets/images/Sari.JPG',
             description: `
-                <p class="tebal" style="font-weight: bold;">Sejarah.</p>
+                <p class="tebal" style="font-weight: bold;">Sejarah</p>
                 <p style="text-align: justify;">
                     Candi Sari adalah candi atau asrama bagi para pendeta. Berdasarkan bentuk atapnya yang berbentuk stupa, dapat disimpulkan bahwa Candi Sari adalah agama Buddha. Berdasarkan desain dekoratif ukiran yang sangat halus, dapat diperkirakan bahwa candi Sari dibangun pada masa yang sama dengan candi Kalasan, yaitu sekitar abad ke-8 Masehi. Candi Sari dipugar pada tahun 1929-1930 oleh Kantor Purbakala Hindia Belanda 
                 </p>
@@ -79,7 +79,8 @@ var config = {
                 </p>
             `,
             modalInfo: `
-                <p class="tebal" style="font-weight: bold;">Jam Operasional.</p>
+                <p class="tebal" style="font-weight: bold;">Sari</p>
+                <p class="tebal" style="font-weight: bold;">Jam Operasional</p>
                 <ul class="operational-hours">
                     <li><span class="day">Senin</span><span class="time">08.00 - 15.00</span></li>
                     <li><span class="day">Selasa</span><span class="time">08.00 - 15.00</span></li>
@@ -90,7 +91,7 @@ var config = {
                     <li><span class="day">Minggu</span><span class="time">08.00 - 15.00</span></li>
                 </ul>
                 </ul>
-                <p class="tebal" style="font-weight: bold;">Harga Tiket.</p>
+                <p class="tebal" style="font-weight: bold;">Harga Tiket</p>
                 <ul class="ticket-prices">
                     <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
                     <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
@@ -141,7 +142,7 @@ var config = {
             title: 'Candi Kedulan',
             image: 'assets/images/Kedulan.JPG',
             description: `
-                <p class="tebal" style="font-weight: bold;">Sejarah.</p>
+                <p class="tebal" style="font-weight: bold;">Sejarah</p>
                 <p style="text-align: justify;">
                     Candi Kedulan terletak di Dusun Kedula, Desa Tirtomartan, Kecamatan Kalasan, Sleman, Daerah Istimewa Yogyakarta, dengan ketinggian 168,45 meter di atas permukaan laut. . Berdasarkan hasil survei stratigrafi, candi Kedulan diselimuti lahar setebal 8 meter yang terdiri dari 15 lapisan sedimen. Mereka menemukan susunan balok di kedalaman tiga meter. Seorang pekerja bernama Sriyanto, yang tinggal di Jogonalan, Wanabaya, Klaten, melaporkan hasilnya ke Balai Pelestarian Cagar Budaya Daerah Istimewa Yogyakarta.
                 </p>
@@ -151,7 +152,8 @@ var config = {
                 </p>
             `,
             modalInfo: `
-                <p class="tebal" style="font-weight: bold;">Jam Operasional.</p>
+                <p class="tebal" style="font-weight: bold;">Candi Kedulan</p>
+                <p class="tebal" style="font-weight: bold;">Jam Operasional</p>
                 <ul class="operational-hours">
                     <li><span class="day">Senin</span><span class="time">08.00 - 15.00</span></li>
                     <li><span class="day">Selasa</span><span class="time">08.00 - 15.00</span></li>
@@ -162,7 +164,7 @@ var config = {
                     <li><span class="day">Minggu</span><span class="time">08.00 - 15.00</span></li>
                 </ul>
                 </ul>
-                <p class="tebal" style="font-weight: bold;">Harga Tiket.</p>
+                <p class="tebal" style="font-weight: bold;">Harga Tiket</p>
                 <ul class="ticket-prices">
                     <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
                     <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
@@ -208,7 +210,7 @@ var config = {
             title: 'Candi Kalasan',
             image: 'assets/images/Kalasan.JPG',
             description: `
-                <p class="tebal" style="font-weight: bold;">Sejarah.</p>
+                <p class="tebal" style="font-weight: bold;">Sejarah</p>
                 <p style="text-align: justify;">
                     Candi Kalasan berlokasi di Dusun Kalibening, Desa Tirtomartani, Kecamatan Kalasan, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Candi Kalasan menghadap ke arah timur dan didirikan menggunakan material batu andesit. Walaupun tidak ditemukan jejak desa sebagai permukiman, temuan di situs Candi Kalasan mengisyaratkan adanya struktur tempat tinggal atau biara bagi para pendeta dan pengelola candi dalam kawasan upacara.
                 </p>
@@ -218,7 +220,8 @@ var config = {
                 </p>
             `,
             modalInfo: `
-                <p class="tebal" style="font-weight: bold;">Jam Operasional.</p>
+                <p class="tebal" style="font-weight: bold;">Candi Kalasan</p>
+                <p class="tebal" style="font-weight: bold;">Jam Operasional</p>
                 <ul class="operational-hours">
                     <li><span class="day">Senin</span><span class="time">08.00 - 15.00</span></li>
                     <li><span class="day">Selasa</span><span class="time">08.00 - 15.00</span></li>
@@ -229,7 +232,7 @@ var config = {
                     <li><span class="day">Minggu</span><span class="time">08.00 - 15.00</span></li>
                 </ul>
                 </ul>
-                <p class="tebal" style="font-weight: bold;">Harga Tiket.</p>
+                <p class="tebal" style="font-weight: bold;">Harga Tiket</p>
                 <ul class="ticket-prices">
                     <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
                     <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
@@ -269,8 +272,7 @@ var config = {
             title: 'Candi Sambisari',
             image: 'assets/images/Sambisari.JPG',
             description: `
-                <p class="tebal" style="font-weight: bold;">Jam Operasional.</p>
-                <p class="tebal" style="font-weight: bold;">Sejarah.</p>
+                <p class="tebal" style="font-weight: bold;">Sejarah</p>
                 <p style="text-align: justify;">
                     Candi Sambisari terletak di Dusun Sambisari, Desa Purwomartan, Kalasan, Sleman, Daerah Istimewa Yogyakarta. Perkiraan tanggal pendirian candi ini didasarkan pada berbagai analisis. Menggunakan bahan jalan setapak, struktur candi Sambisari kemungkinan serupa dengan candi-candi seperti Prambanan, Plaosan, dan Sojiwan, yang berasal dari abad ke-8 hingga ke-11 Masehi. Candi induk menghadap ke barat, memiliki ukuran 13,65 x 13,65 meter, dan tingginya mencapai 7,5 meter
                 </p>
@@ -280,7 +282,8 @@ var config = {
                 </p>
             `,
             modalInfo: `
-                <p class="tebal" style="font-weight: bold;">Jam Operasional.</p>
+                <p class="tebal" style="font-weight: bold;">Candi Sambisari</p>
+                <p class="tebal" style="font-weight: bold;">Jam Operasional</p>
                 <ul class="operational-hours">
                     <li><span class="day">Senin</span><span class="time">08.00 - 15.00</span></li>
                     <li><span class="day">Selasa</span><span class="time">08.00 - 15.00</span></li>
@@ -291,7 +294,7 @@ var config = {
                     <li><span class="day">Minggu</span><span class="time">08.00 - 15.00</span></li>
                 </ul>
                 </ul>
-                <p class="tebal" style="font-weight: bold;">Harga Tiket.</p>
+                <p class="tebal" style="font-weight: bold;">Harga Tiket</p>
                 <ul class="ticket-prices">
                     <li><span class="category">Wisatawan Nusantara</span><span class="price">Rp.6000</span></li>
                     <li><span class="category">Wisatawan Mancanegara</span><span class="price">Rp.15.000</span></li>
