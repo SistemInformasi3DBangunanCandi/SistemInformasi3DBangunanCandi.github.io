@@ -242,7 +242,7 @@ var config = {
                 </ul>
                 
             `,
-            model: 'https://SistemInformasi3DBangunanCandi.github.io/3D/candi_kalasan3D/CandiKalasan3D.gltf',
+            model: 'https://SistemInformasi3DBangunanCandi.github.io/3D/kalasan/kalasan.gltf',
             scale: 1.5,
             locatioObj: [110.47202, -7.76753],
             location: {
